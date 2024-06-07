@@ -1,0 +1,1 @@
+alter table orders add  note NVARCHAR(500)

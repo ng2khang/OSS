@@ -1,0 +1,10 @@
+/WebApplication8/nbproject/private/
+/Swp391_group2/nbproject/private/
+/SWP_391/nbproject/private/
+SWP_391/nbproject/project.properties
+SWP_391/build/
+SWP_391/nbproject/project.properties
+*.properties
+SWP_391/build/web/WEB-INF/lib/sqljdbc42.jar
+/SWP_391/dist/
+SWP_391/src/java/DAO/DBContext.java
